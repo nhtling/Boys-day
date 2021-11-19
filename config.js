@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Happy Boy's Day",
+    introTitle: 'To all the boys...',
+    introDesc: `According to Google, November 19 is the International Men's Day`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    title: 'Chúc đang ngồi trước màn hình luôn đẹp trai, mạnh khỏe, hạnh phúc bên gia đình và học tập thật tốt nhá ^^ , đọc cái này vui không?�',
+    desc: 'P/S: 20-10 năm sau nhớ tổ chức rộn rã lên nhá ^^',
+    btnYes: 'Đương nhiên là vui rồi',
+    btnNo: 'Không, không vui',
+    question: 'C6 ngoài những bạn nữ xinh đẹp, đáng iu, tài giỏi thì còn có gì nữa nhỉ???',
+    btnReply: 'Gửi thông điệp này đến vũ trụ nào',
+    reply: 'Có tình thương mến thương của chúng ta và các bạn nam giỏi giang, đa tài nhất thiên hạ nữa đó',
+    mess: 'Ỏwww vậy hả',
+    messDesc: 'Chúc cậu một ngày zui zẻ nha',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://drive.google.com/file/d/1B5kUioyRPTCcG8yPssjxOOSdO6d5vCVV/view?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
